@@ -43,7 +43,7 @@ How can your analysis be leveraged to optimize inventory management, reduce inef
 
 ## Reference:
 
-Refer to the dataset provided in this repository
+Refer to the dataset provided in this link [DataSet](https://www.kaggle.com/datasets/sloozecareers/slooze-challenge/data)
 
 ## 📤 Submission
 - Upload your code(python files, jupyter notebooks) to GitHub or share as zip file
