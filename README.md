@@ -2,37 +2,21 @@
 ![Logo](./public/FFFFFF-1.png)
 # Slooze take home challenge-data-science-analytics!!
 
-## Inventory Analysis for Any Manufacturing Company
-Any Manufacturing Company is a **medium-sized manufacturer of electronic components**, maintaining **inventory for raw materials, work-in-progress (WIP), and finished goods**.  
-The company faces challenges such as:
-- **Stockouts**
-- **Excess inventory**
-- **High carrying costs**  
+## Inventory, Purchase, Sales Analysis and Optimization
+A retail wine & spirits company, operates across multiple locations and manages millions of transactions related to sales, purchases, and inventory records. Given the high volume of data, traditional spreadsheet-based analysis is inadequate. The company seeks a sophisticated data-driven approach to optimize inventory control and extract valuable business insights.
 
-This inventory analysis aims to **optimize inventory management, reduce costs, and improve efficiency**.
+How can your analysis be leveraged to optimize inventory management, reduce inefficiencies, and extract meaningful insights related to purchase and sales performance.
 
 ---
 
 ## 🎯 Objectives
-- Determine **optimal inventory levels** for raw materials, WIP, and finished goods.
-- Reduce **stockouts** and **excess inventory**.
-- Analyze **inventory turnover and carrying costs** to optimize working capital.
-- Streamline **procurement & production processes** for efficiency.
-- Develop a **sustainable inventory management strategy**.
+- Inventory Optimization → Determine the ideal inventory levels for different product categories.
+- Sales & Purchase Insights → Identify trends, top-performing products, and supplier efficiency.
+- Process Improvement → Optimize procurement and stock control to minimize financial loss.
 
 ---
 
-## 📊 Available Data
-| **Data Type**       | **Description** |
-|---------------------|----------------|
-| **Inventory Records** | Transactions related to purchases, production, sales, and adjustments. |
-| **Demand Data**      | Historical sales trends for different products. |
-| **Lead Time Data**   | Time required to receive raw materials & produce finished goods. |
-| **Cost Data**        | Information on raw material, production, and carrying costs. |
-
----
-
-## 🔎 Tasks to be Performed
+## 🔎 Tasks to be Performed (Any/All)
 ### **1️⃣ Demand Forecasting**
 - Analyze **historical sales data** to predict future demand.
 - Use **time-series models** for accuracy.
@@ -53,46 +37,17 @@ This inventory analysis aims to **optimize inventory management, reduce costs, a
 - Optimize **supply chain efficiency** by assessing material procurement timelines.
 - Reduce **waiting periods** for production inputs.
 
-### **6️⃣ Carrying Cost Analysis**
-- Identify **storage, insurance, and depreciation costs** affecting profitability.
-- Suggest **cost reduction strategies**.
-
-### **7️⃣ Process Improvement**
-- Detect **bottlenecks** in procurement & production workflows.
-- Recommend **automation & workflow optimization**.
-
-### **8️⃣ Inventory Turnover Analysis**
-- Calculate **turnover ratios** to assess inventory efficiency.
-- Increase **rotation speed** for high-demand products.
-
----
-
-## 📄 Deliverables
-| **Deliverable** | **Description** |
-|----------------|----------------|
-| **Optimal Inventory Levels** | Recommended stock levels for raw materials, WIP, and finished goods. |
-| **Reorder Point & EOQ** | Calculations to minimize stockouts and ordering costs. |
-| **Process Improvement Suggestions** | Strategies to streamline procurement & production. |
-| **Inventory Turnover Analysis** | Assessment of turnover ratios with efficiency recommendations. |
-| **Comprehensive Inventory Strategy** | Long-term inventory management plan for XYZ Manufacturing Company. |
-
----
-
-## 🚀 Impact & Goals
-By conducting this **inventory analysis**, XYZ Manufacturing Company aims to:
-✅ Improve **inventory management**  
-✅ Reduce **excess stock & costs**  
-✅ Enhance **customer satisfaction** by ensuring product availability  
+### **6️⃣ Any other aspects/analysis/trends that you can bring to the table
 
 ---
 
 ## Reference:
 
-Refer to the datasets in this repository
+Refer to the dataset provided in this repository
 
 ## 📤 Submission
-- Upload your code to GitHub or share as zip file
-- Include instructions to run the code locally (e.g., python3, ipynb)
+- Upload your code(python files, jupyter notebooks) to GitHub or share as zip file
+- Include instructions to run the code locally 
 
 > 💡 **Tip:** Creativity in your data analysis approach and depth in your insights will be rewarded. Think of this as a mini day-to-day job at Slooze.
 
